@@ -1,0 +1,69 @@
+#header {
+	background-color: #2B5982;
+	color: #eee;
+
+	
+}
+
+#nav {
+	color: #eee;
+
+}
+
+#header2 {
+	background-color: #78E1FF;
+	color: #eee;
+	
+}
+
+#header3 {
+	background-color: #78E1FF;
+	
+}
+
+#header4 {
+	background-color: #283978;
+	
+}
+
+#header5 {
+	background-color: #2D9333;
+	
+}
+
+#header6 {
+	background-color: #D03A3A
+	
+}
+
+#header7 {
+	background-color: #509ADB
+	
+}
+
+nav {
+	background-color: #EFFBFB;
+	overflow: hidden;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	float: left;
+}
+
+nav a {
+	display: block;
+	color:
+	text-align: center;
+	padding: 14px 17px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	background-color: #F2F5A9;
+}
